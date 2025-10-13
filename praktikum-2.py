@@ -6,3 +6,6 @@ print("prodi\t\t:Robotika\n")
 
 print("Praktikum 2")
 
+
+
+
